@@ -1,7 +1,7 @@
 # To-do-List
 
 1. write command npm init -y in your terminal.
-2. install npm i express, npm i body-parser , npm i mongoose, npm i lodash
+2. install npm i express, npm i body-parser , npm i mongoose, npm i lodash, npm i ejs
 3. use command node app.js to start the server.
 
 

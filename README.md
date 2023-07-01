@@ -2,7 +2,6 @@
 <h2> Getting started </h2>
 <ol>
   <li> write command npm init -y in your terminal.</li>
-  <li> install npm i express, npm i body-parser , npm i mongoose, npm i lodash, npm i ejs</li>
 <li> use command node app.js to start the server.</li>
 </ol>
 <h1>About to-do-list</h1>
